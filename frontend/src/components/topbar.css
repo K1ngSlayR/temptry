@@ -1,0 +1,11 @@
+.avatar {
+  border-radius: 50%;
+  width: 40px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  object-fit: cover;
+}
+
+.customNavBar {
+  border-bottom: 1px solid transparent;
+  box-shadow: 0 4px 2px -2px #6b727d;
+}

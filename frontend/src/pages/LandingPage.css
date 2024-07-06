@@ -1,0 +1,12 @@
+.leftbar {
+  margin: 5px 10px;
+  color: white;
+}
+
+.leftbar-items {
+  margin-left: 20px;
+}
+
+.rightbar {
+  margin: 20px 30px;
+}
